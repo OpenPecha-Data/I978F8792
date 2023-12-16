@@ -1,0 +1,16 @@
+id: d9838ec2755f4511b4c75e624618a3b6
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  680cb4949f0848ed90372c27d7077027:
+    span:
+      start: 0
+      end: 78
+    imgnum: 3
+    reference: I1KG153930003.jpg
+  029f5950e6424844b283222dc301086b:
+    span:
+      start: 80
+      end: 158
+    imgnum: 7
+    reference: I1KG153930007.jpg
